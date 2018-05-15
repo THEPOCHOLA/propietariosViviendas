@@ -1,0 +1,12 @@
+Nombre: 442
+Apellidos: 65
+Edad: 56
+DNI: 89
+Vivienda: 56
+
+Nombre: 56
+Apellidos: 56
+Edad: 56
+DNI: 56
+Vivienda: 56
+
